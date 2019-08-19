@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29209.62
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TubeViewer", "TubeViewer\TubeViewer.csproj", "{475AC30D-4FE2-44DA-BAB5-6F1E85A736BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TMWPF", "TMWPF\TMWPF.csproj", "{4027E344-615C-427B-AD3B-477C4AC009E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{475AC30D-4FE2-44DA-BAB5-6F1E85A736BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{475AC30D-4FE2-44DA-BAB5-6F1E85A736BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{475AC30D-4FE2-44DA-BAB5-6F1E85A736BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{475AC30D-4FE2-44DA-BAB5-6F1E85A736BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4027E344-615C-427B-AD3B-477C4AC009E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4027E344-615C-427B-AD3B-477C4AC009E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4027E344-615C-427B-AD3B-477C4AC009E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4027E344-615C-427B-AD3B-477C4AC009E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {556ECCC4-6663-45A6-B77B-03D64A90D45F}
+	EndGlobalSection
+EndGlobal
